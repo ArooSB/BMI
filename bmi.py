@@ -34,5 +34,6 @@ def calculate_bmi():
     print(f"You fall under '{category}' category.")
     print(f"Here's a tip for you: {tip}")
     print("Thank You")
+    print("add a funtion")
 
 calculate_bmi()
